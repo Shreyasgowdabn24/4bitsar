@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "4bitsaradc"      # Project title
+  title:        "4bit_sar_adc"      # Project title
   author:       "RVCE"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "analog to digital convertor"      # One line description of what your project does
