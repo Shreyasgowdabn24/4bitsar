@@ -12,7 +12,7 @@ An static analog input between 0-1.8 is applied and corresponding 4 bit digital 
 Explain how your project works
 
 ## How to test
-
+Give analog input at analog pin 4 bit digital output is given out
 Explain how to use your project
 
 ## External hardware
